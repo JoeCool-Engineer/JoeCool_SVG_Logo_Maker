@@ -17,7 +17,7 @@
   4. Open the directory titled "logo" to see the newly created SVG logo.
   
   ## Contribution
-  ${ contribution }
+  No contributions required or provided. 
   
   ## Test
   No test at this time.
