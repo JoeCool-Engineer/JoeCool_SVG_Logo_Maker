@@ -14,7 +14,8 @@
   1. In the command line/terminal type "npm i" to install all required node package modules. 
   2. Type "npm start" once all dependencies are installed.
   3. Go through user prompt questions.
-  4. Open the directory titled "logo" to see the newly created SVG logo.
+  4. Install SVG from the extensions add-ons.
+  5. Open the directory titled "logo" and right click "Preview SVG" to see the newly created SVG logo.
   
   ## Contribution
   No contributions required or provided. 
